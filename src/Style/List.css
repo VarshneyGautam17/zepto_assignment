@@ -1,0 +1,14 @@
+.list p{
+    padding: 0px;
+    margin: 0px;
+}
+.list a:hover{
+    background-color: rgba(0, 0, 0, 0.094) !important;
+    border-radius: 7px;
+    cursor: pointer;
+}
+.images{
+    width: 1.6rem;
+    height: 1.6rem;
+    border-radius: 50%;
+}
